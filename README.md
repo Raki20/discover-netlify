@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://elastic-bartik-51678f.netlify.com/]()
+* Link to the website deployed on Netlify : https://elastic-bartik-51678f.netlify.com/
